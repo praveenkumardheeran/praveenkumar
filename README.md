@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Praveen Kumar, a passionate Python developer w
 - 👯 I’m looking to collaborate on open-source Python projects and contribute to the community.
 - 🤔 I'm currently focused on improving my skills in machine learning and artificial intelligence using Python.
 - 💬 Ask me about anything related to Python development, programming practices, and software architecture.
-- 📫 How to reach me: @gmail.com (mailto:praveenkumardheeran@example.com) or via LinkedIn(https://www.linkedin.com/in/praveenkumardheeran)
+- 📫 How to reach me: Gmail (mailto:praveenkumardheeran@example.com) or via LinkedIn(https://www.linkedin.com/in/praveenkumardheeran)
 
 ## 🛠️ Technologies & Tools
 
